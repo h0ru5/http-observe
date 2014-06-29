@@ -1,0 +1,26 @@
+{
+  "name": "http-observe",
+  "version": "0.0.0",
+  "description": "porting the RESTful observe pattern from CoAP to HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/h0ru5/http-observe.git"
+  },
+  "keywords": [
+    "observe",
+    "REST",
+    "websocket"
+  ],
+  "author": "Johannes Hund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h0ru5/http-observe/issues"
+  },
+  "dependencies": {
+    "ws": "~0.4.31"
+  }
+}
